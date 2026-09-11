@@ -9,7 +9,7 @@
     "seed": "tsx src/seed/index.ts"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20.x"
   },
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
